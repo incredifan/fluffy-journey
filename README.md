@@ -81,7 +81,8 @@ Cypress plugin features).
 * Go to a directory on your local system where you can download the code.
 * Clone the repo using a command similar to below.
   * `git clone https://github.com/incredifan/fluffy-journey.git`
-* `npm init` to create package.json file.
+* Change directories into the repository
+  * `cd fluffy-journey`
 * `npm install cypress --save-dev` to install node_modules, etc.
 * Start Cypress with: ``./node_modules/.bin/cypress open`
 * When Cypress starts, you can clean up the platform by going to the window and
@@ -89,4 +90,3 @@ Cypress plugin features).
 * Click one of the scenarios to run the tests.
   * google_ducks_spec.js
   * jsonplaceholder_spec.js
----
