@@ -1,0 +1,22 @@
+{
+  "name": "fluffy-journey",
+  "version": "1.0.0",
+  "description": "Search for ducks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incredifan/fluffy-journey.git"
+  },
+  "author": "Dennis G. Hebert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/incredifan/fluffy-journey/issues"
+  },
+  "homepage": "https://github.com/incredifan/fluffy-journey#readme",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
